@@ -1,0 +1,49 @@
+_repo: More-About-Teddy-B-and-Teddy-G-the-Roosevelt-Bears-Being-Volume-Two-Depicting-Their-Further-T__65424
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Culver, R. K. (Richard Keith)
+    alias: Culver, Richard Keith
+    birthdate: 1873
+    deathdate: 1937
+    gutenberg_agent_id: '53336'
+    url: http://www.gutenberg.org/2009/agents/53336
+creator:
+  author:
+    agent_name: Eaton, Seymour
+    alias: Piper, Paul
+    birthdate: 1859
+    deathdate: 1916
+    gutenberg_agent_id: '9362'
+    url: http://www.gutenberg.org/2009/agents/9362
+    wikipedia: https://en.wikipedia.org/wiki/Seymour_Eaton
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65424'
+  lccn: '07026344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Voyages and travels -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Bears -- Juvenile poetry'
+- !lcsh 'Roosevelt, Theodore, 1858-1919 -- Juvenile poetry'
+- GITenberg
+tableOfContents: How the Roosevelt Bears reached New York -- The Roosevelt Bears put
+  out a fire -- The Roosevelt Bears see the Wax Musee -- The Roosevelt Bears visit
+  West Point -- The Roosevelt Bears play baseball -- The Roosevelt Bears arrive in
+  Philadelphia -- The Roosevelt Bears entertain Philadelphia children -- The Roosevelt
+  Bears spend a day at Atlantic City -- The Roosevelt Bears celebrate the Fourth --
+  The Roosevelt Bears visit the Zoo -- The Roosevelt Bears go fishing -- The Roosevelt
+  Bears in Pittsburg -- The Roosevelt Bears get out a newspaper [in Baltimore] --
+  The Roosevelt Bears visit Washington and complete their tour of the East -- The
+  Teddy Bears arrive home.
+title: "More About Teddy B. and Teddy G., the Roosevelt Bears\r\nBeing Volume Two\
+  \ Depicting Their Further Travels and Adventures"
+url: http://www.gutenberg.org/ebooks/65424
